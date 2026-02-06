@@ -1,36 +1,26 @@
-<!-- FUTURISTIC HEADER BANNER -->
+<!-- CUSTOM BANNER LOGO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=200&section=header&text=Team%20TechTonics&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://raw.githubusercontent.com/Team-TechTonics/.github/main/banner.png" width="100%" />
 </p>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+Team+TechTonics;AI+Powered+Solutions;Full+Stack+Developers;Hackathon+Innovators;Building+Future+Startups" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+Team+TechTonics;Building+AI+Powered+Solutions;Full+Stack+Innovators;Hackathon+Developers;Future+Startup+Builders" />
 </p>
 
 ---
 
-<!-- BADGES -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Organization-Team%20TechTonics-00F7FF?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20FullStack%20%7C%20SaaS-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Status-Actively%20Building-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Open%20Source-Welcome-orange?style=for-the-badge"/>
-</p>
+# 🚀 About Team TechTonics
 
----
-
-# 🧠 About Team TechTonics
-
-Team TechTonics is a team of passionate engineers focused on building:
+Team TechTonics is a team of passionate developers and innovators focused on building:
 
 - 🤖 AI-powered applications  
 - 🌐 Full-stack scalable platforms  
-- 📊 Analytics dashboards  
-- 🚀 Hackathon-winning projects  
-- 💼 Startup-ready SaaS products  
+- 📊 Smart analytics dashboards  
+- 🚀 Hackathon-ready solutions  
+- 💼 Startup-level SaaS products  
 
-We transform ideas into impactful software.
+We aim to build impactful technology used globally.
 
 ---
 
@@ -51,29 +41,25 @@ We transform ideas into impactful software.
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,firebase"/>
 </p>
 
-### 🤖 AI / Tools
+### 🤖 Tools & Platforms
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vercel,figma,postman,vscode"/>
 </p>
 
 ---
 
-# 📊 Organization Stats
+# 📊 Organization Info
 
 <p align="center">
-<img src="https://img.shields.io/github/orgs/Team-TechTonics/repos?style=for-the-badge&color=00F7FF&label=Repositories"/>
-<img src="https://img.shields.io/github/orgs/Team-TechTonics/members?style=for-the-badge&color=blue&label=Members"/>
+
+<img src="https://img.shields.io/badge/Organization-Team%20TechTonics-00F7FF?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/Status-Actively%20Building-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-Welcome-orange?style=for-the-badge"/>
+
 <img src="https://komarev.com/ghpvc/?username=Team-TechTonics&label=Profile%20Views&color=00F7FF&style=for-the-badge"/>
-</p>
 
----
-
-# 🚀 Featured Project
-
-<p align="center">
-<a href="https://github.com/Team-TechTonics">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Team-TechTonics&repo=finnssage&theme=tokyonight&hide_border=true"/>
-</a>
 </p>
 
 ---
@@ -86,23 +72,23 @@ We transform ideas into impactful software.
 
 ---
 
-# 🏆 Achievements & Goals
+# 🚀 Our Mission
 
-- 🚀 Building AI SaaS products  
-- 🏆 Participating in Hackathons  
-- 🌍 Open Source Contributions  
-- 💼 Startup Product Development  
-- 🤖 AI Integration Platforms  
+We focus on:
+
+- Building AI-powered platforms  
+- Creating scalable SaaS products  
+- Participating in hackathons  
+- Contributing to open source  
+- Developing startup-ready software  
 
 ---
 
-# 🌐 Connect With Us
+# 🌟 Featured Projects
 
-<p align="center">
-<a href="https://github.com/Team-TechTonics">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-</p>
+Explore our repositories:
+
+👉 https://github.com/Team-TechTonics?tab=repositories
 
 ---
 
@@ -115,13 +101,13 @@ We welcome:
 - Contributors  
 - Innovators  
 
-Let’s build something amazing together 🚀
+Feel free to fork, contribute, and collaborate 🚀
 
 ---
 
-# 💡 Vision
+# 🌍 Vision
 
-To become a globally recognized startup engineering team building impactful AI products.
+Team TechTonics aims to become a globally recognized engineering team building impactful AI products.
 
 ---
 
@@ -136,9 +122,9 @@ If you like our work:
 
 ---
 
-<!-- FOOTER BANNER -->
+<!-- FOOTER -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:00F7FF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=120&section=footer"/>
 </p>
 
 <p align="center">
@@ -147,3 +133,4 @@ If you like our work:
 Innovate • Build • Scale  
 
 </p>
+
